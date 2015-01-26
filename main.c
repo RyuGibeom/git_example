@@ -2,10 +2,13 @@
 
 int main()
 {
+	int n;
+
 	printf("Hello World\n");
+
+	scanf("%d",&n);
+
+	printf("%d",n);
 
 	return 0;
 }
-
-
-dfsgdpgksdgsdklgf
