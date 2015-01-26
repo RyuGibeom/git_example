@@ -2,9 +2,13 @@
 
 int main()
 {
+	int n;
+
 	printf("Hello World\n");
 
-	printf("Test~");
+	scanf("%d",&n);
+
+	printf("Test~%d",n);
 
 	return 0;
 }
